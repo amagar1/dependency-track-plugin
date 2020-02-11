@@ -5,7 +5,7 @@
 
 
 Dependency-Track Jenkins Plugin
-===============================
+=============================
 
 Dependency-Track is an intelligent Software Composition Analysis (SCA) platform that allows organizations to identify 
 and reduce risk from the use of third-party and open source components.
